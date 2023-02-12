@@ -59,6 +59,7 @@
   }
 h1{
     font-weight:500;
+    font-size:4rem;
 }
 
 h1 span{
@@ -66,4 +67,5 @@ h1 span{
 }
   h4{
     font-weight:100;
+    font-size:1.5rem;
   }
