@@ -41,7 +41,7 @@
   }
   img {
     width:100%;
-    max-width:20em;
+    max-width:20rem;
     height:auto;
     margin-left:auto;
     margin-right:auto;
@@ -67,5 +67,5 @@ h1 span{
 }
   h4{
     font-weight:100;
-    font-size:1.5rem;
+    font-size:1.25rem;
   }
