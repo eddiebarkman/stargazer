@@ -40,7 +40,7 @@
     text-align:center;
   }
   img {
-    width:100%;
+    width:80%;
     max-width:20rem;
     height:auto;
     margin-left:auto;
@@ -59,7 +59,7 @@
   }
 h1{
     font-weight:500;
-    font-size:4rem;
+    font-size:3rem;
 }
 
 h1 span{
